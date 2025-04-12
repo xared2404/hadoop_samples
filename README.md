@@ -225,7 +225,7 @@ Haga lo mismo para el archivo puzzle1.dta
 
  - `exit`
 
-- Por último: 
+- Por último, ejecuta: 
 
 - `docker cp namenode:/tmp/solucion_puzzle1.txt .`
 
